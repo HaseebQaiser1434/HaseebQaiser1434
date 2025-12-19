@@ -48,6 +48,10 @@
 👉 LLM-powered document QA 
 🔗 https://github.com/HaseebQaiser1434/UET-Chatbot
 
+🔹 **Hospital Managment System **  
+👉 Without UI etc Basci Level
+🔗 https://github.com/HaseebQaiser1434/UET-Chatbot
+
 ---
 
 ## 📊 GitHub Stats
