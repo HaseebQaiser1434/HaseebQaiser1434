@@ -42,7 +42,7 @@ HaseebQaiser1434
 
 🔹 **YOLOv8 Object Detection**  
 👉 Real-time object detection using YOLOv8 & OpenCV  
-🔗 https://github.com/HaseebQaiser1434/yolov8-object-detection
+🔗 https://github.com/HaseebQaiser1434/AI-Object-Detection
 
 🔹 **RAG-based Question Answering System**  
 👉 LLM-powered document QA using FAISS & Transformers  
